@@ -1,1 +1,0 @@
-in vue.config.js moet je de path aanpassen bij het builden. Anders werkt het wss niet op je eigen server.
