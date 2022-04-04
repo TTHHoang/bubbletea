@@ -1,4 +1,5 @@
 # bubbletea
+A bubble tea website made in VueJS
 
 ## Project setup
 ```
